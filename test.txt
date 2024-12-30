@@ -1,0 +1,2 @@
+this is bufferwrite file
+this is second line
