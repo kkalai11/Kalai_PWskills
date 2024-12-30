@@ -1,0 +1,32 @@
+INFO:root:This is an info message
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:This is an info message
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is my warning
+INFO:root:This is an info message
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is my warning
+INFO:root:This is an info message
+CRITICAL:root:this is my critical
+INFO:root:This is an info message
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is my warning
+INFO:root:This is an info message
+CRITICAL:root:this is my critical
+INFO:root:This is an info message
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is my warning
+INFO:root:This is an info message
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is my warning
+2024-12-30 17:29:18,234:ERROR:this is my error
+2024-12-30 17:29:18,236:CRITICAL:this is my critical
+2024-12-30 17:29:18,236:WARNING:this is my warning
+2024-12-30 17:53:39,352:CRITICAL:this is my critical
+2024-12-30 17:54:33,481:CRITICAL:this is my  new critical
