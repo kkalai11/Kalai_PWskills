@@ -1,2 +1,1 @@
-this is bufferwrite file
-this is second line
+this is my new file for exception handling
